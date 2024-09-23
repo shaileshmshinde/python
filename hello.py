@@ -3,4 +3,4 @@ import datetime
 today = datetime.date.today()
 print("Today Date: %s" % today.strftime("%Y-%m-%d , %H:%M"))
 
-print ("code updated v1")
+print ("code updated v2")
