@@ -1,4 +1,4 @@
 print ("Hello Shailesh\nDo your best!")
-import time
-time.strftime("%Y-%m-%d %H:%M")
-print (time)
+import datetime
+today = datetime.date.today()
+print("formatted datetime: %s" % today.strftime("%Y-%m-%d"))
