@@ -1,2 +1,3 @@
 print ("Hello Shailesh\nDo your best!")
-print ($date +%d-%m-%Y)
+import time
+time.strftime("%Y-%m-%d %H:%M")
