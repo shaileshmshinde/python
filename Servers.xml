@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+	<Putty>
+		<Node Type="1">
+			<SavedSession>Default Settings</SavedSession>
+			<DisplayName>Centos8</DisplayName>
+			<UID>{A73CAA91-D24C-440B-99A4-4AF0576EDDC0}</UID>
+			<ServerName>192.168.1.18</ServerName>
+			<PuttyConType>4</PuttyConType>
+			<Port>0</Port>
+			<UserName>root</UserName>
+			<Password>4PMms4qz8RXAuQDx7omzi51vuWmkxukm</Password>
+			<PasswordDelay>0</PasswordDelay>
+			<CLParams>192.168.1.18 -ssh -l root -pw *****</CLParams>
+			<ScriptDelay>0</ScriptDelay>
+		</Node>
+	</Putty>
+</Servers>
